@@ -1,0 +1,8 @@
+c:\users\vladimir\documents\visual studio 2015\Projects\VkClicker\VkClicker\bin\Debug\VkClicker.exe.config
+c:\users\vladimir\documents\visual studio 2015\Projects\VkClicker\VkClicker\bin\Debug\VkClicker.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\VkClicker\VkClicker\bin\Debug\VkClicker.pdb
+c:\users\vladimir\documents\visual studio 2015\Projects\VkClicker\VkClicker\bin\Debug\WebDriver.dll
+c:\users\vladimir\documents\visual studio 2015\Projects\VkClicker\VkClicker\bin\Debug\WebDriver.xml
+c:\users\vladimir\documents\visual studio 2015\Projects\VkClicker\VkClicker\obj\Debug\VkClicker.csprojResolveAssemblyReference.cache
+c:\users\vladimir\documents\visual studio 2015\Projects\VkClicker\VkClicker\obj\Debug\VkClicker.exe
+c:\users\vladimir\documents\visual studio 2015\Projects\VkClicker\VkClicker\obj\Debug\VkClicker.pdb
